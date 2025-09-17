@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+.section-headline-container {
+  opacity: 0;
+}
+
+.finish-section {
+  display: none;
+}
+
+.rotate-icon-wrapper {
+  display: none;
+  opacity: 0;
+}
+/* src/index.css */
+:root { --brand: #ffc72b; }
+.btn { background:#000; color:var(--brand); border:1px solid var(--brand); border-radius:12px; padding:.5rem 2rem; text-transform:uppercase; font-size:.75rem; }
+.btn:hover { filter:brightness(1.08); }
