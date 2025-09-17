@@ -23,15 +23,17 @@ Build your own **Prime Mates Board Club** skateboard by choosing your deck, truc
 
 ---
 
-## 🖼 Screenshots  
-### Decks  
-![Decks](./public/brand/screenshots/Prime%20Board%20Config%20boards.png)  
+## 📸 Screenshots
 
-### Trucks  
-![Trucks](./public/brand/screenshots/Prime%20Board%20Config%20trucks.png)  
+### Decks
+![Decks](./assets/boards.png)
 
-### Wheels  
-![Wheels](./public/brand/screenshots/Prime%20Board%20Config%20wheels.png)  
+### Trucks
+![Trucks](./assets/trucks.png)
 
-### Full Board  
-![Full Board](./public/brand/screenshots/Prime%203D%20Board.png)  
+### Wheels
+![Wheels](./assets/wheels.png)
+
+### Full Board
+![Full Board](./assets/full-board.png)
+
