@@ -10,7 +10,9 @@ Build your own **Prime Mates Board Club** skateboard by choosing your deck, truc
 ## 🚀 Live Demo  
 👉 [Try it on Vercel](https://prime-board-config.vercel.app)
 
-![Demo Video](./public/brand/screenshots/Prime%20Board%20Config.mov)
+## 🎥 Demo Video
+
+https://github.com/Bizcreate/prime-board-config/blob/main/assets/demo.mp4
 
 ---
 
