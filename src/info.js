@@ -95,6 +95,72 @@ export const deckInfo = [
     name: "Reality is in the skull",
     price: "$80.00",
   },
+   {
+    texture_url: "deck-textures/17.jpg",
+    url: "deck-images/preview-17.jpg",
+    name: "Spearhead",
+    price: "$80.00",
+  },
+  {
+    texture_url: "deck-textures/18.jpg",
+    url: "deck-images/preview-18.jpg",
+    name: "Beach house surfer”,
+    price: "$80.00",
+  },
+  {
+    texture_url: "deck-textures/19.jpg",
+    url: "deck-images/preview-19.jpg",
+    name: "Eye Test Board",
+    price: "$80.00",
+  },
+  {
+    texture_url: "deck-textures/20.jpg",
+    url: "deck-images/preview-20.jpg",
+    name: "Halloween Board",
+    price: "$80.00",
+  },
+  {
+    texture_url: "deck-textures/21.jpg",
+    url: "deck-images/preview-21.jpg",
+    name: "PMBC Black",
+    price: "$80.00",
+  },
+  {
+    texture_url: "deck-textures/22.jpg",
+    url: "deck-images/preview-22.jpg",
+    name: "PMBC Blue",
+    price: "$80.00",
+  },
+  {
+    texture_url: "deck-textures/23.jpg",
+    url: "deck-images/preview-23.jpg",
+    name: "PMBC Pink",
+    price: "$80.00",
+  },
+  {
+    texture_url: "deck-textures/24.jpg",
+    url: "deck-images/preview-24.jpg",
+    name: "PMBC Red",
+    price: "$80.00",
+  },
+  {
+    texture_url: "deck-textures/25.jpg",
+    url: "deck-images/preview-25.jpg",
+    name: "PMBC Yellow",
+    price: "$80.00",
+  },
+  {
+    texture_url: "deck-textures/26.jpg",
+    url: "deck-images/preview-26.jpg",
+    name: "Seal Board",
+    price: "$80.00",
+  },
+  {
+    texture_url: "deck-textures/27.jpg",
+    url: "deck-images/preview-27.jpg",
+    name: "Skatepark”,
+    price: "$80.00",
+  },
 ];
 
 export const trucksInfo = [
